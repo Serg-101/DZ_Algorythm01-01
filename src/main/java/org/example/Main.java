@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-
+        //  Сложность этого алгоритма равна O(N)
         System.out.println(findFibonachi(10));
     }
 
